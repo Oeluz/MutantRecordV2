@@ -1,0 +1,11 @@
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\bin\Debug\netcoreapp2.1\MutantRecordV2.deps.json
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\bin\Debug\netcoreapp2.1\MutantRecordV2.runtimeconfig.json
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\bin\Debug\netcoreapp2.1\MutantRecordV2.runtimeconfig.dev.json
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\bin\Debug\netcoreapp2.1\MutantRecordV2.dll
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\bin\Debug\netcoreapp2.1\MutantRecordV2.pdb
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\obj\Debug\netcoreapp2.1\MutantRecordV2.csproj.CoreCompileInputs.cache
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\obj\Debug\netcoreapp2.1\MutantRecordV2.AssemblyInfoInputs.cache
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\obj\Debug\netcoreapp2.1\MutantRecordV2.AssemblyInfo.cs
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\obj\Debug\netcoreapp2.1\MutantRecordV2.dll
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\obj\Debug\netcoreapp2.1\MutantRecordV2.pdb
+C:\Users\Zhen\source\repos\MutantRecordV2\MutantRecordV2\obj\Debug\netcoreapp2.1\MutantRecordV2.csprojAssemblyReference.cache

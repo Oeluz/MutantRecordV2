@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "f32032623850797740ece9142c6ddb5428fcece9"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MutantRecordV2/1.0.0": {
+        "dependencies": {
+          "GeoCoordinate.NetStandard1": "1.0.1"
+        },
+        "runtime": {
+          "MutantRecordV2.dll": {}
+        }
+      },
+      "GeoCoordinate.NetStandard1/1.0.1": {
+        "runtime": {
+          "lib/netstandard1.1/GeoCoordinate.NetStandard1.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MutantRecordV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeoCoordinate.NetStandard1/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VNgiwP4L7O968FwKujPdJEmeIuWVw6x8VrrlGi3Yoq1Mh58cNJCMyjc24riUPjsJVYMxVl1y6AKzp8lUuZf5Lg==",
+      "path": "geocoordinate.netstandard1/1.0.1",
+      "hashPath": "geocoordinate.netstandard1.1.0.1.nupkg.sha512"
+    }
+  }
+}
